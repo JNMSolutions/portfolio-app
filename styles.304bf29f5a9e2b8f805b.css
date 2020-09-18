@@ -11,7 +11,7 @@
  * Copyright 2011-2020 The Bootstrap Authors
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
- */.bodyWrapper{padding:20px}.welcomeContainer{background-color:#0d182b!important;padding:0!important}.form-control.ng-touched.ng-invalid{border:2px solid red}.markup,.resultList{max-height:75vh;overflow-y:auto}@media only screen and (max-width:600px){.resultList{max-height:33vh}}
+ */.bodyWrapper{padding:20px}.welcomeContainer{background-color:#0d182b!important;padding:0!important}.welcomeContainer p{font-size:1.1rem!important}.form-control.ng-touched.ng-invalid{border:2px solid red}.markup,.resultList{max-height:75vh;overflow-y:auto}@media only screen and (max-width:600px){.resultList{max-height:33vh}}
 
 
 
